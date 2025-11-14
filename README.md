@@ -38,7 +38,7 @@ For now this package is only available from GitHub.
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("liamgilbey/ldapr")
+devtools::install_github("yeroslaviz/ldapr")
 ```
 
 ## Usage
