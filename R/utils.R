@@ -2,7 +2,7 @@ ldap_string <- function(
   host,
   port
 ){
-  paste0("ldap://", host, ":", port)
+  paste0("ldaps://", host, ":", port)
 }
 
 ldap_bind_dn <- function(
